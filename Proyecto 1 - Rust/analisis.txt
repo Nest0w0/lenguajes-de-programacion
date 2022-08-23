@@ -1,0 +1,23 @@
+Oración 1: OK
+Oración 2: Error de Sintaxis 
+Oración 3: Error de Sintaxis 
+Oración 4: OK
+Oración 5: OK
+Oración 6: Error de Sintaxis 
+Oración 7: Error de Sintaxis 
+Oración 8: Error de Sintaxis 
+Oración 9: Error de Sintaxis 
+Oración 10: Error de Sintaxis 
+Oración 11: Error de Sintaxis 
+Oración 12: Error de Sintaxis 
+Oración 13: Error de Sintaxis 
+Oración 14: OK
+Oración 15: Error de Sintaxis 
+Oración 16: Error de Sintaxis 
+Oración 17: Error de Sintaxis 
+Oración 18: Error de Sintaxis 
+Oración 19: Error de Sintaxis 
+Oración 20: Error de Sintaxis 
+Oración 21: Error de Sintaxis 
+Oración 22: OK
+Oración 23: OK
